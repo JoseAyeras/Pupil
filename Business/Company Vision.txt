@@ -1,0 +1,49 @@
+Pupil, as a project, is made to develop a platform for sharing technical information between laymen, students, experts, and academics in numerous fields.
+This folder and this file is meant to negotiate the business realities regarding Pupil.
+
+There are three main communication channels to Pupil that are part of its vision:
+1. A video sharing platform. This is Pupil's primary mission - to provide users with a free-to-use platform that would be able to complement their textbooks.
+2. A forum. This is also free to use, and is meant to faciliate dialogue regarding academic professionals or bridge gaps in understanding between laymen, students, and experts.
+    2.a. In the same respect, the forum feature could instead be a collaboration with a different company if their alternative is significantly more developed for this purpose.
+    2.b. StackOverflow isn't what I had in mind though - the reason is they're really restrictive with the question and answer format and fail to provide for other academic and technical needs.
+    2.c. Non-free-to-use platforms also don't qualify.
+3. A way to share interactive materials that can help students understand academic materials. This content is also the most likely to be put behind a paywall.
+
+To help better refine the results people get, a tagging and grading system would be in place.
+1. User/Admin-generated tags. User tags would be marked under a different color than admin-generated tags.
+2. User-generated grades, in a similar system to Newgrounds' 5 star system of rating content.
+3. Admin-generated grades.
+4. Additionally, user-generated ratings of comments could be used for responses.
+5. Finally an age rating would be made so that traumatizing/suggestive content could be put onto the site but not visible to anyone who is studying more abstract concepts. This is mainly to set up future revenue streams.
+
+We will not be marketing Pupil as a means for corporations to do things like Nintendo Direct or host advertisement videos.
+
+Finally, countermeasures to keep order:
+1. Spambot filters.
+2. Reporting system for copyrighted content being put on the site.
+3. Paywall system to cordon off copyrighted content, rather than deleting the relevant items outright, and the price being defined by the copyright holder.
+4. Harsh policies against people abusing the copyright system - any legal fees incurred by Pupil because of a copyright dispute would be fined to the loser of said dispute.
+5. Fund reserve system when a copyright dispute is in effect.
+
+Pupil, ideally, should be a non-profit, cooperative endeavor.
+As a cooperative, Pupil's controlled by three groups:
+1. The administration of the site. This kind of structure isn't a new idea, and it is useful for protecting the labor rights of those administering the site.
+2. The content producers. Those who generate a lot of traffic on the site would be able to have some say over the decision-making process.
+3. The consumers. Individuals who pay for subscriptions to Pupil get the privilege of being able to vote on decisions regarding the video-sharing site.
+
+The accurement of advertisement revenue is acceptable in non-academic videos, but it would likely be unreliable since it would be competing with Google. We learned this lesson from Newgrounds.
+Our primary means of generating revenue is likely going to come from patrons and subscribers until we get a product suite that can be pitched to other businesses.
+
+-------------------------------------------------
+
+So, this all leaves one very important question:
+Why is there a need for Pupil to exist?
+
+The answer to that question is simply because YouTube removed dislikes from videos, and has made a clear step towards hiding dislike information in order to appease major corporations.
+This is not exactly in the interest of or wellbeing for academic development, and people trying to learn new programs and stuff wouldn't be able to judge how useful a video is for their purposes without a dislike counter.
+
+Plus, the lack of a dislike counter encourages scams.
+
+So, having a site dedicated towards sharing actionable information is something that our team decided to work on.
+Ridiculous anti-vaccination and climate denialist claims have destroyed our society enough.
+

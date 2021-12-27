@@ -1,0 +1,14 @@
+LU 2021-12-26
+
+Index
+Button/Tab for searching by tags
+Button/Tab to go to forums
+Button/Tab for searching for videos only
+Button/Tab for controlling account information
+Search bar
+
+A plain search bar at the top probably isn't enough.
+    A button to show a simplified "advanced features" UI
+    A button to redirect to advanced search
+
+A way to adjust age rating, automatically assume E only
